@@ -1,3 +1,5 @@
+![Logo](http://url/to/icon.png)
+
 # Omnizient: Deep File Search For the Android filesystem
 
 Hi fellow code wranglers! Welcome to Omnizient, my pet project on trying to fix local search for Android. 
