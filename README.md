@@ -1,4 +1,4 @@
-![Logo]([http://url/to/icon.png](https://github.com/sxcd/Omnizient/blob/c4a760c789efc9db4c9487ce5e7955ecd5dd5d17/icon_small.png))
+![Logo](https://github.com/sxcd/Omnizient/blob/a4dbe8c761a20a23f7a636728586f9723806376e/icon_small.png)
 
 # Omnizient: Deep File Search For the Android filesystem
 
